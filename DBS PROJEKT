@@ -1,7 +1,7 @@
 -- Vytvoření databáze
-CREATE DATABASE MI_DBS_Danek_Masteikova_Shadrina;
+CREATE DATABASE ;
 GO
-USE  MI_DBS_Danek_Masteikova_Shadrina;
+USE  ;
 GO
 
 -- Vytvoření rolí
